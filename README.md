@@ -9,6 +9,7 @@ This is a Python based console application to perform CRUD operations (Create, R
 - Delete folders
 - Manage folder ID references locally during runtime
 - Validate API token and user ID before performing operations
+- Api token is taken as Run time 
 
 
 #libraries
